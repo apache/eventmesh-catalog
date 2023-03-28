@@ -16,7 +16,7 @@
 #
 
 github:
-  description: EventMesh go
+  description: EventMesh catalog
   homepage: https://eventmesh.apache.org/
   labels:
     - pubsub
